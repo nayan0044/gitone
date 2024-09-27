@@ -1,0 +1,2 @@
+# gitone
+learning about git
